@@ -1,6 +1,6 @@
 # py_nmap_with_https_detect
-python-nmap lib default detect protocol https as http, it's not convenient.<br>
-the code add https protcol detection.<br><br>
+> python-nmap lib default detect protocol https as http, it's not convenient.<br>
+> the code add https protcol detection.<br><br>
 ## How to use?
 ### The usage is similar to original python-nmap lib,but just a little different in https detection.
 ```
