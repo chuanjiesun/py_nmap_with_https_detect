@@ -1,5 +1,5 @@
 # python-nmap_with_https_detect
-> python-nmap lib is a excellent lib for binding nmap. <br>
+> python-nmap lib is an excellent lib for binding nmap. <br>
 > but it can't detect protocol https by default, it's not so convenient sometime.<br>
 > this code add https protocol detection in python-nmap.<br>
 ## How to use?
